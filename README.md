@@ -1,2 +1,3 @@
-# myfirstrepo
+"first repository"
 
+"GitHub learning task"
